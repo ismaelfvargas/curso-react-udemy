@@ -1,0 +1,12 @@
+body {
+    font-family: Oswald;
+    background-color: #202024;
+    color: #838383;
+    font-size: 22px;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+h1, h2, h3 {
+    font-weight: 200;
+}
